@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>model/variables/variables.data-00000-of-00001</file>
+        <file>model/variables/variables.index</file>
+        <file>model/fingerprint.pb</file>
+        <file>model/keras_metadata.pb</file>
+        <file>model/saved_model.pb</file>
+    </qresource>
+</RCC>
